@@ -27,5 +27,13 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "products": [
+    {
+      "id": 1,
+      "title": "나이키 양말",
+      "price": 8000,
+      "description": "이 양말은 어쩌고 저쩌고"
+    }
+  ]
 }
