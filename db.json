@@ -18,5 +18,49 @@
       "price": 50000,
       "description": "이 키보드는 어쩌고 저쩌고"
     }
+  ],
+  "posts": [
+    {
+        "userId": 1,
+        "id": 1,
+        "title": "Lorem ipsum dolor sit amet.",
+        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum modi impedit consequatur possimus fugit molestiae velit quasi numquam quae placeat. Vitae at assumenda, numquam voluptatum, vero neque eaque itaque alias corporis nisi soluta debitis accusamus officia laborum, nobis quia saepe earum incidunt tempora? Sed quo cumque, libero nesciunt eum illo unde incidunt temporibus laborum provident esse reiciendis sit eius possimus maxime enim nam consequatur dolorem? Aliquam eius laudantium, error quibusdam aliquid accusamus voluptatem quisquam ut. Hic, odio soluta tenetur nemo libero tempora dolore magni voluptatibus nam. Praesentium dolorum in quod ipsa exercitationem, cum sit perferendis quasi ratione pariatur voluptates optio!"
+    },
+    {
+        "userId": 1,
+        "id": 2,
+        "title": "onsectetur adipisicing elit. Dolorum ",
+        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum modi impedit consequatur possimus fugit molestiae velit quasi numquam quae placeat. Vitae at assumenda, numquam voluptatum, vero neque eaque itaque alias corporis nisi soluta debitis accusamus officia laborum, nobis quia saepe earum incidunt tempora? Sed quo cumque, libero nesciunt eum illo unde incidunt temporibus laborum provident esse reiciendis sit eius possimus maxime enim nam consequatur dolorem? Aliquam eius laudantium, error quibusdam aliquid accusamus voluptatem quisquam ut. Hic, odio soluta tenetur nemo libero tempora dolore magni voluptatibus nam. Praesentium dolorum in quod ipsa exercitationem, cum sit perferendis quasi ratione pariatur voluptates optio!"
+    },
+    {
+        "userId": 1,
+        "id": 3,
+        "title": "Lit amet consectetur adipisic",
+        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum modi impedit consequatur possimus fugit molestiae velit quasi numquam quae placeat. Vitae at assumenda, numquam voluptatum, vero neque eaque itaque alias corporis nisi soluta debitis accusamus officia laborum, nobis quia saepe earum incidunt tempora? Sed quo cumque, libero nesciunt eum illo unde incidunt temporibus laborum provident esse reiciendis sit eius possimus maxime enim nam consequatur dolorem? Aliquam eius laudantium, error quibusdam aliquid accusamus voluptatem quisquam ut. Hic, odio soluta tenetur nemo libero tempora dolore magni voluptatibus nam. Praesentium dolorum in quod ipsa exercitationem, cum sit perferendis quasi ratione pariatur voluptates optio!"
+    },
+    {
+        "userId": 1,
+        "id": 4,
+        "title": "s fugit molestiae velit",
+        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum modi impedit consequatur possimus fugit molestiae velit quasi numquam quae placeat. Vitae at assumenda, numquam voluptatum, vero neque eaque itaque alias corporis nisi soluta debitis accusamus officia laborum, nobis quia saepe earum incidunt tempora? Sed quo cumque, libero nesciunt eum illo unde incidunt temporibus laborum provident esse reiciendis sit eius possimus maxime enim nam consequatur dolorem? Aliquam eius laudantium, error quibusdam aliquid accusamus voluptatem quisquam ut. Hic, odio soluta tenetur nemo libero tempora dolore magni voluptatibus nam. Praesentium dolorum in quod ipsa exercitationem, cum sit perferendis quasi ratione pariatur voluptates optio!"
+    },
+    {
+        "userId": 1,
+        "id": 5,
+        "title": "Vitae at assumenda, numquam voluptatum",
+        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum modi impedit consequatur possimus fugit molestiae velit quasi numquam quae placeat. Vitae at assumenda, numquam voluptatum, vero neque eaque itaque alias corporis nisi soluta debitis accusamus officia laborum, nobis quia saepe earum incidunt tempora? Sed quo cumque, libero nesciunt eum illo unde incidunt temporibus laborum provident esse reiciendis sit eius possimus maxime enim nam consequatur dolorem? Aliquam eius laudantium, error quibusdam aliquid accusamus voluptatem quisquam ut. Hic, odio soluta tenetur nemo libero tempora dolore magni voluptatibus nam. Praesentium dolorum in quod ipsa exercitationem, cum sit perferendis quasi ratione pariatur voluptates optio!"
+    },
+    {
+        "userId": 1,
+        "id": 6,
+        "title": "ratione pariatur voluptates optio!",
+        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum modi impedit consequatur possimus fugit molestiae velit quasi numquam quae placeat. Vitae at assumenda, numquam voluptatum, vero neque eaque itaque alias corporis nisi soluta debitis accusamus officia laborum, nobis quia saepe earum incidunt tempora? Sed quo cumque, libero nesciunt eum illo unde incidunt temporibus laborum provident esse reiciendis sit eius possimus maxime enim nam consequatur dolorem? Aliquam eius laudantium, error quibusdam aliquid accusamus voluptatem quisquam ut. Hic, odio soluta tenetur nemo libero tempora dolore magni voluptatibus nam. Praesentium dolorum in quod ipsa exercitationem, cum sit perferendis quasi ratione pariatur voluptates optio!"
+    },
+    {
+        "userId": 1,
+        "id": 7,
+        "title": "accusamus officia laborum, nobis",
+        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum modi impedit consequatur possimus fugit molestiae velit quasi numquam quae placeat. Vitae at assumenda, numquam voluptatum, vero neque eaque itaque alias corporis nisi soluta debitis accusamus officia laborum, nobis quia saepe earum incidunt tempora? Sed quo cumque, libero nesciunt eum illo unde incidunt temporibus laborum provident esse reiciendis sit eius possimus maxime enim nam consequatur dolorem? Aliquam eius laudantium, error quibusdam aliquid accusamus voluptatem quisquam ut. Hic, odio soluta tenetur nemo libero tempora dolore magni voluptatibus nam. Praesentium dolorum in quod ipsa exercitationem, cum sit perferendis quasi ratione pariatur voluptates optio!"
+    }
   ]
 }
