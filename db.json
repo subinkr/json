@@ -1,25 +1,11 @@
 {
-  "products": [
+  "posts": [
     {
       "id": 1,
-      "title": "나이키 양말",
-      "price": 8000,
-      "description": "이 양말은 어쩌고 저쩌고"
-    },
-    {
-      "id": 2,
-      "title": "뉴발란스 신발",
-      "price": 80000,
-      "description": "이 신발은 어쩌고 저쩌고"
-    },
-    {
-      "id": 3,
-      "title": "개발자 키보드",
-      "price": 50000,
-      "description": "이 키보드는 어쩌고 저쩌고"
-    },
-    "profile": {
-      "name": "typicode"
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
